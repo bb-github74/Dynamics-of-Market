@@ -1,0 +1,59 @@
+---
+title: "Paper 2"
+author: "bbaasan"
+date: "2024-02-01"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitropts_chunk$set(echo = TRUE)
+```
+
+## Research question 
+How do earnings call transcripts serve as indicators for predicting the potential exit of firms from the market?  
+
+# Title Page
+Title of your research.
+Your name and institutional affiliation.
+Date of submission.
+
+# Abstract
+A brief summary of your research, including the purpose, methodology, key findings, and conclusions.
+Introduction
+Introduce the topic and its relevance.
+State the research question "How do earnings call transcripts serve as indicators for predicting the potential exit of firms from the market?"
+
+# Present background information and context
+Outline the scope and limitations of your study.
+State the objectives or hypotheses.
+
+# Literature Review  
+Discuss existing research and theories related to your topic.
+Identify gaps in current knowledge.
+Explain how your research contributes to the existing literature.
+
+# Methodology  
+Detail the methods used to collect and analyze data.
+Describe the sources of your data (specifically earnings call transcripts in this case).
+Explain the selection criteria for the data.
+Discuss any tools or software used for analysis (like NLP tools for sentiment analysis).
+
+# Data Analysis and Findings  
+Present the results of your data analysis.
+Use charts, graphs, and tables to illustrate key findings.
+Interpret the results in the context of your research question.
+
+# Discussion  
+Discuss the implications of your findings.
+Compare and contrast your results with existing literature.
+Address the research question and whether your findings support or contradict your initial hypotheses.
+
+# Conclusion  
+Summarize the key findings and their significance.
+Discuss the broader implications of your research.
+Suggest areas for future research.
+
+# References
+List all the sources cited in your paper in the appropriate format.  
+
+# Appendices (if necessary)
